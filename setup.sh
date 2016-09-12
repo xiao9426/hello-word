@@ -17,8 +17,8 @@ printf "
 "
 [ ! -e '/usr/bin/curl' ] && yum -y install curl
 VPN_IP=`curl ipv4.icanhazip.com`
-VPN_USER="linuxeye"
-VPN_PASS="linuxeye"
+VPN_USER="chouchou"
+VPN_PASS="chouchou"
 VPN_LOCAL="192.168.0.100"
 VPN_REMOTE="192.168.0.151-200"
 while :; do echo
