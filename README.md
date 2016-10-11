@@ -6,11 +6,13 @@ Your can use blow codes in your cantos system , Maybe Xshell will help your.
 
 
 
-wget https://github.com/mmmwhy/centos-setup-simple-pptp-vpn/blob/master/setup.sh
+```java
+  wget https://github.com/mmmwhy/centos-setup-simple-pptp-vpn/blob/master/setup.sh
 
-chmod +x ./vpn_centos.sh
+  chmod +x ./vpn_centos.sh
 
-./vpn_centos.sh
+  ./vpn_centos.sh
+```
 
 
 
