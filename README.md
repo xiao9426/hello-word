@@ -4,6 +4,7 @@ There might have some questions of pptp, which i cann't predict.
 
 Your can use blow codes in your cantos system , Maybe Xshell will help your.
 
+The passward and username are both chouchou 
 
 
 ```
