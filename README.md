@@ -1,3 +1,5 @@
+>NOTE: PPTP VPN is considered insecure. Do not rely for this vpn if you need security. The security of the VPN can probably be cracked with any serious attacker. See http://en.wikipedia.org/wiki/Point-to-Point_Tunneling_Protocol#Security If you need security, consider using e.g. openvpn, you can setup a server easily with https://github.com/viljoviitanen/setup-simple-openvpn However, PPTP works out of the box on many operating systems, including many Linux distributions, MacOS, Windows and Android and it's easily good enough for evading country level IP blocks.
+
 # centos-setup-simple-pptp-vpn
 Use this code , your can create your own vpn .
 
