@@ -25,8 +25,8 @@ chmod +x ./setup.sh
 
 
 
-If your want to change passward and username of your vpn , there is a sentence will help you.
+    If your want to change passward and username of your vpn , there is a sentence will help you.
 
-$ sudo vi /etc/ppp/chap-secrets
+    *$ sudo vi /etc/ppp/chap-secrets*
 
-Have fun , May the force be with you ~
+    Have fun , May the force be with you ~
