@@ -7,12 +7,12 @@ Your can use blow codes in your cantos system , Maybe Xshell will help your.
 The passward and username are both chouchou 
 
 
-```
+``` java
   wget https://github.com/mmmwhy/centos-setup-simple-pptp-vpn/blob/master/setup.sh
 
-  chmod +x ./vpn_centos.sh
+  chmod +x ./setup.sh
 
-  ./vpn_centos.sh
+  ./setup.sh
 ```
 
 
