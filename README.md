@@ -13,13 +13,13 @@ Use this code , your can create your own vpn .
 
 
 
-``` python
-  wget http://mmmxcc.08tk.cn/blog/20161029/183055446.sh
+```` 
+wget http://mmmxcc.08tk.cn/setup.sh
 
-  chmod +x ./183055446.sh
+chmod +x ./setup.sh
 
-  ./183055446.sh
-```
+./setup.sh
+````
 
 ---
 
