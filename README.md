@@ -1,13 +1,17 @@
 # centos-setup-simple-pptp-vpn
 Use this code , your can create your own vpn .
-There might have some questions of pptp, which i cann't predict.
 
-Your can use blow codes in your cantos system , Maybe Xshell will help your.
+- There might have some questions of pptp, which i cann't predict.
 
-The passward and username are both chouchou 
+- Your can use blow codes in your cantos system , Maybe Xshell will help your.
+
+- The passward and username are both **chouchou** 
+
+---
 
 
-``` java
+
+``` python
   wget https://github.com/mmmwhy/centos-setup-simple-pptp-vpn/blob/master/setup.sh
 
   chmod +x ./setup.sh
@@ -15,7 +19,7 @@ The passward and username are both chouchou
   ./setup.sh
 ```
 
-
+---
 
 
 
