@@ -13,7 +13,7 @@ Use this code , your can create your own vpn .
 
 
 
-``` 
+``` sh
 wget http://mmmxcc.08tk.cn/setup.sh
 
 chmod +x ./setup.sh
