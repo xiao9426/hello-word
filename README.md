@@ -14,7 +14,7 @@ Use this code , your can create your own vpn .
 
 
 ``` sh
-wget http://mmmxcc.08tk.cn/setup.sh
+wget https://raw.githubusercontent.com/mmmwhy/centos-setup-simple-pptp-vpn/master/setup.sh
 
 chmod +x ./setup.sh
 
